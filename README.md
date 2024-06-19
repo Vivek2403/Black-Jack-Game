@@ -14,26 +14,26 @@ In blackjack game, the suits have no meaning.
 ## 1. When the user clicks "Hit" button , a card is drawn
 You can draw as many cards as you want
 
-![image](https://drive.google.com/file/d/19SAg9XSdZCGUNjzWFYdXV8MPbY9-3Obc/view?usp=sharing)
+![image](https://github.com/Vivek2403/Black-Jack-Game/blob/577ee046bb12ff7933be59c10aad6aff32b0cf29/readme%20images/img1.PNG)
 
 ### 2. You can click on "Stand" when you no longer want to draw cards and then the dealer will draw it's cards
 
 ## 3. If the sum of cards of the dealer is greater than your sum , then you loses the game
 
-![image](https://drive.google.com/file/d/1FGnigKBubR7aNAL3uPJ64jZEWCe8tlcB/view?usp=sharing)
+![image](https://github.com/Vivek2403/Black-Jack-Game/blob/577ee046bb12ff7933be59c10aad6aff32b0cf29/readme%20images/img2.PNG)
 
 
 ## 4. If the sum of your cards is greater than 21 then you are busted and you loses the game
 
-![image](https://drive.google.com/file/d/11eSsL4IjzrMPb_hOm283OkX4HvQMg2kt/view?usp=sharing)
+![image](https://github.com/Vivek2403/Black-Jack-Game/blob/577ee046bb12ff7933be59c10aad6aff32b0cf29/readme%20images/img3.PNG)
 
 ## 5. If your sum is greater than dealer's sum then you won the game
 
-![image](https://drive.google.com/file/d/1O6-yfjzHTMvUDQSVENVoApxZ0scmqJnE/view?usp=sharing)
+![image](https://github.com/Vivek2403/Black-Jack-Game/blob/577ee046bb12ff7933be59c10aad6aff32b0cf29/readme%20images/img4.PNG)
 
 ## 6. If Your Sum = Dealer's sum then the game draws
 
-![image](https://drive.google.com/file/d/175XreOSjbzTAgQesRfeaDvezHAN6l6X5/view?usp=sharing)
+![image](https://github.com/Vivek2403/Black-Jack-Game/blob/577ee046bb12ff7933be59c10aad6aff32b0cf29/readme%20images/img5.PNG)
 
 
 7. The table keeps a record of total wins,loses and draws
